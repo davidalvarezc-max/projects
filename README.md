@@ -21,7 +21,8 @@ Tools: SQL, Power BI
 
 Focus: Funnel analysis, drop-off, conversion optimization
 
-👉 View Project
+ https://github.com/tu_usuario/real-estate-sales-funnel-analysis
+
 
 📈 Job Application Funnel Dashboard
 
@@ -31,10 +32,10 @@ Tools: SQL, Power BI
 
 Focus: Pipeline tracking, conversion metrics
 
-👉 View Project
+ https://github.com/tu_usuario/job-application-dashboard
 
 🔹 Contact
 
-LinkedIn: (tu link)
+LinkedIn:www.linkedin.com/in/jose-david-alvarez-casillas-97054652
 
-Email: (opcional)
+Email: david.alvarez.c@gmail.com
