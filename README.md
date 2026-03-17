@@ -1,7 +1,40 @@
-## Projects
+🔹 Data Analytics Portfolio
 
-### Real Estate Sales Funnel Analysis
-👉 https://github.com/tu_usuario/real-estate-sales-funnel-analysis
+Business-focused data analyst with experience in SQL, Power BI, and commercial operations.
 
-### Job Application Dashboard
-👉 https://github.com/tu_usuario/job-application-dashboard
+This portfolio showcases projects focused on analyzing business performance, identifying bottlenecks, and supporting decision-making through data.
+
+🔹 Skills
+
+SQL (data analysis, joins, aggregations)
+
+Power BI (dashboards, DAX, data modeling)
+
+Business Analysis (KPIs, funnel analysis, performance tracking)
+
+🔹 Projects
+📊 Real Estate Sales Funnel Analysis
+
+Analysis of a real estate development to identify funnel inefficiencies, conversion issues, and data quality problems.
+
+Tools: SQL, Power BI
+
+Focus: Funnel analysis, drop-off, conversion optimization
+
+👉 View Project
+
+📈 Job Application Funnel Dashboard
+
+Analysis of job applications to understand conversion rates across stages and improve job search strategy.
+
+Tools: SQL, Power BI
+
+Focus: Pipeline tracking, conversion metrics
+
+👉 View Project
+
+🔹 Contact
+
+LinkedIn: (tu link)
+
+Email: (opcional)
